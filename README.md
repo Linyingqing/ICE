@@ -19,4 +19,4 @@ Reference
 
 [8] Hou J P, Ma J. DawnRank: discovering personalized driver genes in cancer[J]. Genome medicine, 2014, 6(7): 1-16.
 
-[9] Leiserson M D M, Vandin F, Wu H T, et al. Pan-cancer network analysis identifies combinations of rare somatic mutations across pathways and protein complexes[J]. Nature genetics, 2015, 47(2): 106-114.
+[9] Leiserson M D M, Vandin F, Wu H T, et al. Pan-cancer network analysis identifies combinations of rare somatic mutations across pathways and protein complexes[J]. Nature genetics, 2015, 47(2): 106-114. https://github.com/raphael-group/hotnet2
