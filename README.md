@@ -7,7 +7,7 @@ Reference
 
 [2] Song J, Peng W, Wang F. An Entropy-based method for identifying mutual exclusive driver genes in cancer[J]. IEEE/ACM transactions on computational biology and bioinformatics, 2019, 17(3): 758-768. https://github.com/weiba/EntroRank
 
-[3] Horn H, Lawrence M S, Chouinard C R, et al. NetSig: network-based discovery from cancer genomes[J]. Nature methods, 2018, 15(1): 61-66. https://github.com/yooah/NetSig
+[3] Horn H, Lawrence M S, Chouinard C R, et al. NetSig: network-based discovery from cancer genomes[J]. Nature methods, 2018, 15(1): 61-66.
 
 [4] Reyna M A, Leiserson M D M, Raphael B J. Hierarchical HotNet: identifying hierarchies of altered subnetworks[J]. Bioinformatics, 2018, 34(17): i972-i980. https://github.com/raphael-group/hierarchical-hotnet
 
